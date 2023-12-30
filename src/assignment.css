@@ -1,0 +1,42 @@
+.Header{
+    background-color: green;
+    padding: 10px;
+    height: 20%;
+    margin: 0px;
+    border-top: 5px solid gray;
+}
+.Mid{
+    display: flex;
+    flex: row;
+    background-color: blueviolet;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    height:450px ;
+}
+
+.Sidenav{
+    background-color: blueviolet;
+    width: 20%;
+    height: 450px;
+    margin: 0px;
+    border-right: 5px solid grey;
+}
+.Sidenav h1{
+    margin-top: 200px ;
+
+}
+.MainContent h1{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.Footer{
+    background-color: green;
+    border-bottom: 5px solid gray;
+}
+.Footer h1{
+    margin: 0px;
+    padding: 10px;
+    height: 70px;
+    text-align: center;
+
+}
